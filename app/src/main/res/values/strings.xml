@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Creative Printers</string>
+    <string-array name="array_papers">
+        <item>A2	420 x 594 mm	16.5 x 23.4 in</item>
+        <item>A3	297 x 420 mm	11.7 x 16.5 in</item>
+        <item>A4	210 x 297 mm	8.3 x 11.7 in</item>
+        <item>A5	148 x 210 mm	5.8 x 8.3 in</item>
+    </string-array>
+</resources>
